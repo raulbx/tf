@@ -1,1 +1,1 @@
-# tf-tryouts
+# Tensor Flow modeling to analyze crypto 
